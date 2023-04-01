@@ -1,0 +1,16 @@
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.exe
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.deps.json
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.runtimeconfig.json
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.runtimeconfig.dev.json
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.dll
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\ref\DesignPatternsLearnProject.dll
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\bin\Debug\net5.0\DesignPatternsLearnProject.pdb
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.csproj.AssemblyReference.cache
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.AssemblyInfoInputs.cache
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.AssemblyInfo.cs
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.dll
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\ref\DesignPatternsLearnProject.dll
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.pdb
+C:\Users\ACER E5-523G-9225\Desktop\code-learning-actual\csharp-learn\04-cs-oop-design-patterns\DesignPatternsLearnProject\DesignPatternsLearnProject\obj\Debug\net5.0\DesignPatternsLearnProject.genruntimeconfig.cache
